@@ -5,7 +5,7 @@
 
 [![NPM][npm-png]][npm]
 
-My web framework
+A web framework
 
 ## Example
 
